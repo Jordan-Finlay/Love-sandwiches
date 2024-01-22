@@ -42,3 +42,4 @@ def validate_data(values):
 
 
 get_sales_data()
+
